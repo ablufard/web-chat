@@ -1,0 +1,1 @@
+export { InputAreaContainer } from './inputArea'

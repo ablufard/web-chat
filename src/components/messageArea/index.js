@@ -1,0 +1,1 @@
+export {MessageAreaComponent} from './messageArea'
